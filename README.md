@@ -1,3 +1,7 @@
+Creating a simple chatbot that's responsive to topics using a list of possible options depending on user input
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
