@@ -1,4 +1,8 @@
 Creating a simple chatbot that's responsive to topics using a list of possible options depending on user input
+This chatbot has similar functionality to many used in popular websites, for example: claris.com
+
+Feel free to reach out to be regarding implementing funcitonality!
+
 
 
 
